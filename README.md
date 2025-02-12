@@ -95,8 +95,8 @@ Defines a `Product` structure to store product details.
 ## 👨‍💻 Author
 
 - **Your Name**  
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 🔗 GitHub: [your-github-profile](https://github.com/your-github-profile)
+- 📧 Email: [ykhuranasahil099@gmail.com](mailto:khuranasahil099@gmail.com)  
+- 🔗 GitHub: [sahilkhurana01](https://github.com/sahilkhurana01)
 
 ---
 
